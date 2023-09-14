@@ -1,5 +1,4 @@
 # havel-hakimi
-Group: cristian gonzalez franco, Flavio arregoces mercado, Gabriel palencia cure, Camilo de la rosa, Carlos molina. nrc: 2672
 Small python3 program implementing the Havel-Hakimi algorithm (recursively) to decide if there exists a graph for a given degree sequence, for to use execute the line 
 ```python
 pip install -r requirements.txt
@@ -8,6 +7,9 @@ and them
 ```python
 python havel-hakimi.py
 ```
+# Group: 
+cristian gonzalez franco, Flavio arregoces mercado, Gabriel palencia cure, Camilo de la rosa, Carlos molina. nrc: 2672
+
 
 # Usage
 ```python
