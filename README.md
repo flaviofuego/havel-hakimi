@@ -1,5 +1,12 @@
 # havel-hakimi
-Small python3 program implementing the Havel-Hakimi algorithm (recursively) to decide if there exists a graph for a given degree sequence, for to use execute the line ´´´pip install -r requirements.txt´´´ and them ´´´python havel-hakimi.py´´´
+Small python3 program implementing the Havel-Hakimi algorithm (recursively) to decide if there exists a graph for a given degree sequence, for to use execute the line 
+```python
+pip install -r requirements.txt
+```
+and them 
+```python
+python havel-hakimi.py
+```
 
 # Usage
 ```python
