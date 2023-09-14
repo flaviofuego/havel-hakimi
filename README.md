@@ -3,7 +3,7 @@ Small python3 program implementing the Havel-Hakimi algorithm (recursively) to d
 ```python
 pip install -r requirements.txt
 ```
-and them 
+and then the following line is executed
 ```python
 python havel-hakimi.py
 ```
