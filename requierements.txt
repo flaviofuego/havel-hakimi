@@ -1,0 +1,3 @@
+altgraph                  0.17.3
+pefile                    2023.2.7
+setuptools                63.2.0
