@@ -8,7 +8,12 @@ and then the following line is executed
 python havel-hakimi.py
 ```
 # Group: 
-cristian gonzalez franco, Flavio arregoces mercado, Gabriel palencia cure, Camilo de la rosa, Carlos molina. nrc: 2672
+Cristian Gonzalez franco
+Flavio Arregoces Mercado
+Gabriel Palencia Cure
+Camilo de la rosa
+Carlos Molina 
+Nrc: 2672
 
 
 # Usage
