@@ -7,6 +7,11 @@ and then the following line is executed
 ```python
 python havel-hakimi.py
 ```
+other option is This is the link to download an executable 
+```
+https://uninorte-my.sharepoint.com/:u:/g/personal/francocd_uninorte_edu_co/EeM4_rZofZhAsmcya6TRcgkBuJZgHahdBqT86VYwg5Irwg?e=tXtMVe
+```
+
 # Group: 
 ```
 Cristian Gonzalez franco
